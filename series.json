@@ -1,0 +1,281 @@
+{
+    "series": [
+      {
+        "title": "مسلسل 1",
+        "img": "images/series1.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 2",
+        "img": "images/series2.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 3",
+        "img": "images/series3.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 4",
+        "img": "images/series4.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 5",
+        "img": "images/series5.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 6",
+        "img": "images/series6.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 7",
+        "img": "images/series7.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 8",
+        "img": "images/series8.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 9",
+        "img": "images/series9.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 10",
+        "img": "images/series10.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 11",
+        "img": "images/series11.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "مسلسل 12",
+        "img": "images/series12.jpg",
+        "url": "https://example.com",
+        "seasons": [
+          {
+            "seasonTitle": "الموسم 1",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode1" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode2" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode3" }
+            ]
+          },
+          {
+            "seasonTitle": "الموسم 2",
+            "episodes": [
+              { "title": "الحلقة 1", "url": "https://example.com/episode4" },
+              { "title": "الحلقة 2", "url": "https://example.com/episode5" },
+              { "title": "الحلقة 3", "url": "https://example.com/episode6" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

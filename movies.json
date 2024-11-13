@@ -1,0 +1,505 @@
+{
+    "movies": [
+      {
+        "title": "JOKER",
+        "img": "images/movie1.jpg",
+        "url": "https://example.com/movie1"
+      },
+      {
+        "title": "فيلم 2",
+        "img": "images/movie2.jpg",
+        "url": "https://example.com/movie2"
+      },
+      {
+        "title": "فيلم 3",
+        "img": "images/movie3.jpg",
+        "url": "https://example.com/movie3"
+      },
+      {
+        "title": "فيلم 4",
+        "img": "images/movie4.jpg",
+        "url": "https://example.com/movie4"
+      },
+      {
+        "title": "فيلم 5",
+        "img": "images/movie5.jpg",
+        "url": "https://example.com/movie5"
+      },
+      {
+        "title": "فيلم 6",
+        "img": "images/movie6.jpg",
+        "url": "https://example.com/movie6"
+      },
+      {
+        "title": "فيلم 7",
+        "img": "images/movie7.jpg",
+        "url": "https://example.com/movie7"
+      },
+      {
+        "title": "فيلم 8",
+        "img": "images/movie8.jpg",
+        "url": "https://example.com/movie8"
+      },
+      {
+        "title": "فيلم 9",
+        "img": "images/movie9.jpg",
+        "url": "https://example.com/movie9"
+      },
+      {
+        "title": "فيلم 10",
+        "img": "images/movie10.jpg",
+        "url": "https://example.com/movie10"
+      },
+      {
+        "title": "فيلم 11",
+        "img": "images/movie11.jpg",
+        "url": "https://example.com/movie11"
+      },
+      {
+        "title": "فيلم 12",
+        "img": "images/movie12.jpg",
+        "url": "https://example.com/movie12"
+      },
+      {
+        "title": "فيلم 13",
+        "img": "images/movie13.jpg",
+        "url": "https://example.com/movie13"
+      },
+      {
+        "title": "فيلم 14",
+        "img": "images/movie14.jpg",
+        "url": "https://example.com/movie14"
+      },
+      {
+        "title": "فيلم 15",
+        "img": "images/movie15.jpg",
+        "url": "https://example.com/movie15"
+      },
+      {
+        "title": "فيلم 16",
+        "img": "images/movie16.jpg",
+        "url": "https://example.com/movie16"
+      },
+      {
+        "title": "فيلم 17",
+        "img": "images/movie17.jpg",
+        "url": "https://example.com/movie17"
+      },
+      {
+        "title": "فيلم 18",
+        "img": "images/movie18.jpg",
+        "url": "https://example.com/movie18"
+      },
+      {
+        "title": "فيلم 19",
+        "img": "images/movie19.jpg",
+        "url": "https://example.com/movie19"
+      },
+      {
+        "title": "فيلم 20",
+        "img": "images/movie20.jpg",
+        "url": "https://example.com/movie20"
+      },
+      {
+        "title": "فيلم 21",
+        "img": "images/movie21.jpg",
+        "url": "https://example.com/movie21"
+      },
+      {
+        "title": "فيلم 22",
+        "img": "images/movie22.jpg",
+        "url": "https://example.com/movie22"
+      },
+      {
+        "title": "فيلم 23",
+        "img": "images/movie23.jpg",
+        "url": "https://example.com/movie23"
+      },
+      {
+        "title": "فيلم 24",
+        "img": "images/movie24.jpg",
+        "url": "https://example.com/movie24"
+      },
+      {
+        "title": "فيلم 25",
+        "img": "images/movie25.jpg",
+        "url": "https://example.com/movie25"
+      },
+      {
+        "title": "فيلم 26",
+        "img": "images/movie26.jpg",
+        "url": "https://example.com/movie26"
+      },
+      {
+        "title": "فيلم 27",
+        "img": "images/movie27.jpg",
+        "url": "https://example.com/movie27"
+      },
+      {
+        "title": "فيلم 28",
+        "img": "images/movie28.jpg",
+        "url": "https://example.com/movie28"
+      },
+      {
+        "title": "فيلم 29",
+        "img": "images/movie29.jpg",
+        "url": "https://example.com/movie29"
+      },
+      {
+        "title": "فيلم 30",
+        "img": "images/movie30.jpg",
+        "url": "https://example.com/movie30"
+      },
+      {
+        "title": "فيلم 31",
+        "img": "images/movie31.jpg",
+        "url": "https://example.com/movie31"
+      },
+      {
+        "title": "فيلم 32",
+        "img": "images/movie32.jpg",
+        "url": "https://example.com/movie32"
+      },
+      {
+        "title": "فيلم 33",
+        "img": "images/movie33.jpg",
+        "url": "https://example.com/movie33"
+      },
+      {
+        "title": "فيلم 34",
+        "img": "images/movie34.jpg",
+        "url": "https://example.com/movie34"
+      },
+      {
+        "title": "فيلم 35",
+        "img": "images/movie35.jpg",
+        "url": "https://example.com/movie35"
+      },
+      {
+        "title": "فيلم 36",
+        "img": "images/movie36.jpg",
+        "url": "https://example.com/movie36"
+      },
+      {
+        "title": "فيلم 37",
+        "img": "images/movie37.jpg",
+        "url": "https://example.com/movie37"
+      },
+      {
+        "title": "فيلم 38",
+        "img": "images/movie38.jpg",
+        "url": "https://example.com/movie38"
+      },
+      {
+        "title": "فيلم 39",
+        "img": "images/movie39.jpg",
+        "url": "https://example.com/movie39"
+      },
+      {
+        "title": "فيلم 40",
+        "img": "images/movie40.jpg",
+        "url": "https://example.com/movie40"
+      },
+      {
+        "title": "فيلم 41",
+        "img": "images/movie41.jpg",
+        "url": "https://example.com/movie41"
+      },
+      {
+        "title": "فيلم 42",
+        "img": "images/movie42.jpg",
+        "url": "https://example.com/movie42"
+      },
+      {
+        "title": "فيلم 43",
+        "img": "images/movie43.jpg",
+        "url": "https://example.com/movie43"
+      },
+      {
+        "title": "فيلم 44",
+        "img": "images/movie44.jpg",
+        "url": "https://example.com/movie44"
+      },
+      {
+        "title": "فيلم 45",
+        "img": "images/movie45.jpg",
+        "url": "https://example.com/movie45"
+      },
+      {
+        "title": "فيلم 46",
+        "img": "images/movie46.jpg",
+        "url": "https://example.com/movie46"
+      },
+      {
+        "title": "فيلم 47",
+        "img": "images/movie47.jpg",
+        "url": "https://example.com/movie47"
+      },
+      {
+        "title": "فيلم 48",
+        "img": "images/movie48.jpg",
+        "url": "https://example.com/movie48"
+      },
+      {
+        "title": "فيلم 49",
+        "img": "images/movie49.jpg",
+        "url": "https://example.com/movie49"
+      },
+      {
+        "title": "فيلم 50",
+        "img": "images/movie50.jpg",
+        "url": "https://example.com/movie50"
+      },
+      {
+        "title": "فيلم 51",
+        "img": "images/movie51.jpg",
+        "url": "https://example.com/movie51"
+      },
+      {
+        "title": "فيلم 52",
+        "img": "images/movie52.jpg",
+        "url": "https://example.com/movie52"
+      },
+      {
+        "title": "فيلم 53",
+        "img": "images/movie53.jpg",
+        "url": "https://example.com/movie53"
+      },
+      {
+        "title": "فيلم 54",
+        "img": "images/movie54.jpg",
+        "url": "https://example.com/movie54"
+      },
+      {
+        "title": "فيلم 55",
+        "img": "images/movie55.jpg",
+        "url": "https://example.com/movie55"
+      },
+      {
+        "title": "فيلم 56",
+        "img": "images/movie56.jpg",
+        "url": "https://example.com/movie56"
+      },
+      {
+        "title": "فيلم 57",
+        "img": "images/movie57.jpg",
+        "url": "https://example.com/movie57"
+      },
+      {
+        "title": "فيلم 58",
+        "img": "images/movie58.jpg",
+        "url": "https://example.com/movie58"
+      },
+      {
+        "title": "فيلم 59",
+        "img": "images/movie59.jpg",
+        "url": "https://example.com/movie59"
+      },
+      {
+        "title": "فيلم 60",
+        "img": "images/movie60.jpg",
+        "url": "https://example.com/movie60"
+      },
+      {
+        "title": "فيلم 61",
+        "img": "images/movie61.jpg",
+        "url": "https://example.com/movie61"
+      },
+      {
+        "title": "فيلم 62",
+        "img": "images/movie62.jpg",
+        "url": "https://example.com/movie62"
+      },
+      {
+        "title": "فيلم 63",
+        "img": "images/movie63.jpg",
+        "url": "https://example.com/movie63"
+      },
+      {
+        "title": "فيلم 64",
+        "img": "images/movie64.jpg",
+        "url": "https://example.com/movie64"
+      },
+      {
+        "title": "فيلم 65",
+        "img": "images/movie65.jpg",
+        "url": "https://example.com/movie65"
+      },
+      {
+        "title": "فيلم 66",
+        "img": "images/movie66.jpg",
+        "url": "https://example.com/movie66"
+      },
+      {
+        "title": "فيلم 67",
+        "img": "images/movie67.jpg",
+        "url": "https://example.com/movie67"
+      },
+      {
+        "title": "فيلم 68",
+        "img": "images/movie68.jpg",
+        "url": "https://example.com/movie68"
+      },
+      {
+        "title": "فيلم 69",
+        "img": "images/movie69.jpg",
+        "url": "https://example.com/movie69"
+      },
+      {
+        "title": "فيلم 70",
+        "img": "images/movie70.jpg",
+        "url": "https://example.com/movie70"
+      },
+      {
+        "title": "فيلم 71",
+        "img": "images/movie71.jpg",
+        "url": "https://example.com/movie71"
+      },
+      {
+        "title": "فيلم 72",
+        "img": "images/movie72.jpg",
+        "url": "https://example.com/movie72"
+      },
+      {
+        "title": "فيلم 73",
+        "img": "images/movie73.jpg",
+        "url": "https://example.com/movie73"
+      },
+      {
+        "title": "فيلم 74",
+        "img": "images/movie74.jpg",
+        "url": "https://example.com/movie74"
+      },
+      {
+        "title": "فيلم 75",
+        "img": "images/movie75.jpg",
+        "url": "https://example.com/movie75"
+      },
+      {
+        "title": "فيلم 76",
+        "img": "images/movie76.jpg",
+        "url": "https://example.com/movie76"
+      },
+      {
+        "title": "فيلم 77",
+        "img": "images/movie77.jpg",
+        "url": "https://example.com/movie77"
+      },
+      {
+        "title": "فيلم 78",
+        "img": "images/movie78.jpg",
+        "url": "https://example.com/movie78"
+      },
+      {
+        "title": "فيلم 79",
+        "img": "images/movie79.jpg",
+        "url": "https://example.com/movie79"
+      },
+      {
+        "title": "فيلم 80",
+        "img": "images/movie80.jpg",
+        "url": "https://example.com/movie80"
+      },
+      {
+        "title": "فيلم 81",
+        "img": "images/movie81.jpg",
+        "url": "https://example.com/movie81"
+      },
+      {
+        "title": "فيلم 82",
+        "img": "images/movie82.jpg",
+        "url": "https://example.com/movie82"
+      },
+      {
+        "title": "فيلم 83",
+        "img": "images/movie83.jpg",
+        "url": "https://example.com/movie83"
+      },
+      {
+        "title": "فيلم 84",
+        "img": "images/movie84.jpg",
+        "url": "https://example.com/movie84"
+      },
+      {
+        "title": "فيلم 85",
+        "img": "images/movie85.jpg",
+        "url": "https://example.com/movie85"
+      },
+      {
+        "title": "فيلم 86",
+        "img": "images/movie86.jpg",
+        "url": "https://example.com/movie86"
+      },
+      {
+        "title": "فيلم 87",
+        "img": "images/movie87.jpg",
+        "url": "https://example.com/movie87"
+      },
+      {
+        "title": "فيلم 88",
+        "img": "images/movie88.jpg",
+        "url": "https://example.com/movie88"
+      },
+      {
+        "title": "فيلم 89",
+        "img": "images/movie89.jpg",
+        "url": "https://example.com/movie89"
+      },
+      {
+        "title": "فيلم 90",
+        "img": "images/movie90.jpg",
+        "url": "https://example.com/movie90"
+      },
+      {
+        "title": "فيلم 91",
+        "img": "images/movie91.jpg",
+        "url": "https://example.com/movie91"
+      },
+      {
+        "title": "فيلم 92",
+        "img": "images/movie92.jpg",
+        "url": "https://example.com/movie92"
+      },
+      {
+        "title": "فيلم 93",
+        "img": "images/movie93.jpg",
+        "url": "https://example.com/movie93"
+      },
+      {
+        "title": "فيلم 94",
+        "img": "images/movie94.jpg",
+        "url": "https://example.com/movie94"
+      },
+      {
+        "title": "فيلم 95",
+        "img": "images/movie95.jpg",
+        "url": "https://example.com/movie95"
+      },
+      {
+        "title": "فيلم 96",
+        "img": "images/movie96.jpg",
+        "url": "https://example.com/movie96"
+      },
+      {
+        "title": "فيلم 97",
+        "img": "images/movie97.jpg",
+        "url": "https://example.com/movie97"
+      },
+      {
+        "title": "فيلم 98",
+        "img": "images/movie98.jpg",
+        "url": "https://example.com/movie98"
+      },
+      {
+        "title": "فيلم 99",
+        "img": "images/movie99.jpg",
+        "url": "https://example.com/movie99"
+      },
+      {
+        "title": "فيلم 100",
+        "img": "images/movie100.jpg",
+        "url": "https://example.com/movie100"
+      }
+    ]
+  }
+  
